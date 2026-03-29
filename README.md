@@ -1,4 +1,5 @@
 Customer Churn Analysis Dashboard
+
 A visually rich and interactive Customer Churn Analysis Dashboard built to help businesses understand customer behavior, identify churn patterns, and improve retention strategies.
 
 Purpose:
