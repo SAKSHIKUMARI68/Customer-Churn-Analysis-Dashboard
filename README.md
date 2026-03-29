@@ -39,3 +39,5 @@ Enables businesses to design targeted retention campaigns.
 Encourages promotion of long-term contracts to improve customer loyalty.
 Supports improved service adoption strategies.
 Ultimately helps reduce churn while maximizing revenue and customer lifetime value.
+
+https://github.com/SAKSHIKUMARI68/Customer-Churn-Analysis-Dashboard/blob/main/Dashboard.png
