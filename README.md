@@ -8,6 +8,7 @@ This project presents a comprehensive dashboard for analyzing customer churn usi
 It enables clear visibility into customer behavior and churn patterns.
 The goal is to transform raw data into actionable insights that support better retention strategies.
 
+
 Tech Stack:
 
 Power BI Desktop – Developed interactive dashboards and visual reports.
@@ -21,9 +22,11 @@ DAX (Data Analysis Expressions) – Created calculated measures, columns, and KP
 File Format – .pbix for report development and distribution and .png for dashboard previews.
 
 
+
 Data Source:
 
 The dataset for this project was obtained from a publicly shared dataset referenced in a YouTube tutorial description and is used here for educational and analytical purposes.
+
 
 Business Problem:
 
@@ -46,6 +49,7 @@ Service Adoption Impact: Examines how services like Online Security and Backup i
 Retention Distribution: Highlights high-risk vs. normal customers.
 
 Revenue Analysis: Compares revenue contributions of retained vs. churned customers.
+
 
 
 Business Impact and Insights:
